@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+body {
+  margin: 0px;
+}
+
+
 p {
   background-color: pink;
+  margin: 0px;
 }

@@ -4,11 +4,12 @@ body {
   margin: 0;
 }
 
+h1 {
+  background-color: skyblue;
+  margin: 0;
+}
 
 p {
   background-color: pink;
-  margin: 16px;
-  width: 160px;
-  height: 160px;
-  box-shadow: 0 0 50px gray;
+  margin: 0;
 }

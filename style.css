@@ -9,7 +9,8 @@ p {
   background-color: pink;
   margin: 0px;
   width: 50%;
-  
+  /* max-width: 400px; */
+  min-width: 400px;
   height: 160px;
 
 }

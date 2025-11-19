@@ -1,15 +1,11 @@
 @charset "UTF-8";
 
 body {
-  margin: 0px;
+  margin: 0;
 }
 
 
 p {
   background-color: pink;
-  margin: 0 auto;
-  width: 160px;
-  height: 160px;
-  border: 8px solid blue;
-  padding: 16px;
+  margin: 0;
 }

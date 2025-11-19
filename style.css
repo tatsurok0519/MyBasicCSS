@@ -5,6 +5,10 @@ body {
   font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 }
 
+section {
+  border:1px solid gray;
+}
+
 h1 {
   background-color: skyblue;
   margin: 0;

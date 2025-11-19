@@ -8,9 +8,10 @@ body {
 p {
   background-color: pink;
   margin: 0px;
-  width: 50%;
-  /* max-width: 400px; */
-  min-width: 400px;
+  width: 160px;
   height: 160px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: blue;
 
 }

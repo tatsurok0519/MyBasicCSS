@@ -15,10 +15,12 @@ section {
 h1 {
   background-color: skyblue;
   margin: 0;
+  padding: 8px;
 }
 
 p {
   background-color: pink;
   margin: 0;
   line-height: 1.6;
+  padding: 8px;
 }

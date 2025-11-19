@@ -10,8 +10,10 @@ p {
   margin: 0px;
   width: 160px;
   height: 160px;
-  border-width: 8px;
-  border-style: solid;
-  border-color: blue;
-
+  border-top-width: 8px;
+  border-top-style: dashed;
+  border-top-color: blue;
+  border-bottom-width: 8px;
+  border-bottom-style: double;
+  border-bottom-color: blue;
 }

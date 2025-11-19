@@ -10,6 +10,6 @@ p {
   margin: 0px;
   width: 160px;
   height: 160px;
-  border-top: 8px dashed blue;
-  border-bottom: 8px double blue;
+  border: 8px solid blue;
+  padding: 16px;
 }

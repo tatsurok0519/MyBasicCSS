@@ -7,14 +7,10 @@ body {
 h1 {
   background-color: skyblue;
   margin: 0;
-  font-size:16px;
-  font-weight: normal;
-  text-align: center;
 }
 
 p {
   background-color: pink;
   margin: 0;
-  font-weight: bold;
-  text-align: right;
+  line-height: 2.5;
 }
